@@ -20,7 +20,7 @@ I am a software engineering student. At the moment I am acquiring knowledge abou
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img width="50" src="https://lieno.com.br/site/wp-content/uploads/2020/04/c.png" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
 </div>
 <br>
@@ -57,7 +57,7 @@ Eu sou um estudante de Engenharia de Software. No momento estou adquirindo conhe
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img width="50" src="https://lieno.com.br/site/wp-content/uploads/2020/04/c.png" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
 </div>
 <br>
