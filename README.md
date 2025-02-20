@@ -1,10 +1,11 @@
 # Olá, eu sou Hian Praxedes 👋
 <img align="right" width="160"  src="https://c.tenor.com/p0kz7NOqxTkAAAAM/kaito-typing.gif" />
-Eu sou um estudante de Engenharia de Software. No momento estou adquirindo conhecimento sobre algumas tecnologias. Eu tenho um objetivo de desenvolver um jogo 😁.
+Eu sou um estudante de Engenharia de Software. No momento estou adquirindo conhecimento sobre algumas tecnologias.
 
 ## O que estou fazendo 🌱
 
 - Engenharia de Software na Universidade de Brasília (UnB  <img width="20" height="12" src="https://user-images.githubusercontent.com/86726332/154114165-b78f1d0b-3dc1-4c7d-a286-253126bbc3cc.png">)
+- Estagiando na área de Infraestrutura de TI na Polícia Rodoviária Federal.
 
 <div align="center">
   <a href="https://github.com/HianPraxedes">
